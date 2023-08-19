@@ -1,0 +1,1 @@
+/Users/antoine/Code/tree-sitter-glimmer/queries/highlights.scm
